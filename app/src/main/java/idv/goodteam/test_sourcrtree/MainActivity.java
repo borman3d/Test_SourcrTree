@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity
     }
 
     // Function 1
-    void sayHello()
+    void printHello()
     {
 
     }
